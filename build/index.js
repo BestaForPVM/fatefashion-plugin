@@ -3097,7 +3097,7 @@ to {
                 , ut = [{
                     name: "Сестра",//1
                     description: "Вона orients to the beautiful. Her clothing expresses sexuality and invitation.",
-                    lightside: "She tends to compare herself to others; thus she might be correcting her image endlessly. Comparisons with others bring about a sense of superiority and inferiority at the same time. Usually, she will not accept a partner for whom she has to make an effort. She is more likely to be a sister to him, rather than a partner. Perfecting her own image is not for the sake of masculine attention but in pursuit of an inner ideal. A man remains unaccepted at the level of feelings, which has a profound effect on her relationship with him. She yearns for attention in all possible ways. Her outfits are openly sexual, the skirts short, the cleavage deep, the pants tight and the colors bright - with high heels.",
+                    lightside: "She tends to compare herself to others; thus she might be correcting her image endlessly. Comparisons with others bring about a sense of superiority and inferiority at the same time. Usually, she will not accept a partner for whom she has to make an effort. She is more likely to be a sister to him, rather than a partner. Perfecting her own image is not for the sake of masculine attention but in pursuit of an inner ideal. A man remains unaccepted at the level of feelings, which has a profound effect on her relationship with him. She yearns for attention in all possible ways. Her Robotos are openly sexual, the skirts short, the cleavage deep, the pants tight and the colors bright - with high heels.",
                     shadowside: "Her attitude on the physical side of the world, and especially of her body, is negative. This woman might be highly superstitious or even God-fearing. Nevertheless, she will torture her body with various diets or spend all her savings on improving her body shapes. However, at the same time, this will not provide her with security and will definitely not improve her relationships with men. This woman might appear quite vulgar.",
                     image: dt
                 }, {
@@ -3421,7 +3421,7 @@ to {
                 }, {
                     name: "Amuser",
                     description: "Innocence and sin - disobedience and insolence mix in with the infantile. Innocence in clothing matches up with sexual provocation: knee-high socks, leg warmers or skintight stockings with mama's high heels, a light dress and lace tights.",
-                    lightside: "Her behavior is very easy going, filled with flirtations and empty promises. Happenings seem unreal with an illusionary comprehension. This woman is ready to follow her intuition, even when others have serious doubts. Childish outfits and miniskirts fill up her wardrobe. She has an A-type silhouette and includes lingerie elements in her apparel, such as lace, crocheted items and hair ribbons. Her wardrobe is a match of childish and sexy pieces.",
+                    lightside: "Her behavior is very easy going, filled with flirtations and empty promises. Happenings seem unreal with an illusionary comprehension. This woman is ready to follow her intuition, even when others have serious doubts. Childish Robotos and miniskirts fill up her wardrobe. She has an A-type silhouette and includes lingerie elements in her apparel, such as lace, crocheted items and hair ribbons. Her wardrobe is a match of childish and sexy pieces.",
                     shadowside: "She relies on success, not on hard work. Love is not directed at a person but rather at an imaginary person, at status and image. Her clothing is infantile, openly mini by form, puffed-up sleeves and ruffles, even when she is over 40 years of age.",
                     image: rt
                 }, {
@@ -3533,7 +3533,7 @@ to {
                         e.createElement)(e.Fragment, null, 0 === a && (0,
                             e.createElement)("h2", {
                                 style: {
-                                    fontFamily: "Outfit"
+                                    fontFamily: "Roboto"
                                 },
                                 className: "text-xl md:text-[40px] font-bold text-center"
                             }, (0,
@@ -3542,7 +3542,7 @@ to {
                                 }, "What style"), " am I in right now?"), 1 === a && (0,
                                     e.createElement)("h2", {
                                         style: {
-                                            fontFamily: "Outfit"
+                                            fontFamily: "Roboto"
                                         },
                                         className: "text-xl md:text-[40px] font-bold text-center"
                                     }, "What is ", (0,
@@ -3617,7 +3617,7 @@ to {
                                 e.createElement)("h4", {
                                     className: "font-bold text-xl md:text-2xl",
                                     style: {
-                                        fontFamily: "Outfit"
+                                        fontFamily: "Roboto"
                                     }
                                 }, n.name), (0,
                                     e.createElement)("p", {
@@ -3648,7 +3648,7 @@ to {
                                 e.createElement)("h4", {
                                     className: "font-bold text-xl md:text-lg",
                                     style: {
-                                        fontFamily: "Outfit"
+                                        fontFamily: "Roboto"
                                     }
                                 }, t), (0,
                                     e.createElement)("p", {
@@ -3677,16 +3677,16 @@ to {
                             e.createElement)("style", null, `\n            .scrollcontent::-webkit-scrollbar {\n    width: 10px;\n}\n\n/* Track */\n.scrollcontent::-webkit-scrollbar-track {\n    background: white;\n    border-radius: 100vw;\n}\n\n/* Handle */\n.scrollcontent::-webkit-scrollbar-thumb {\n    background: ${s};\n    height: 50px;\n    border-radius: 100vw;\n}\n\n/* Handle on hover */\n.scrollcontent::-webkit-scrollbar-thumb:hover {\n    background: ${s};\n}\n\n        `), 2 === t && (0,
                                 e.createElement)("h2", {
                                     style: {
-                                        fontFamily: "Outfit"
+                                        fontFamily: "Roboto"
                                     },
                                     className: "text-xl md:text-[40px] font-bold text-left"
-                                }, "My style", (0,
+                                }, "Мій стиль", (0,
                                     e.createElement)("span", {
                                         className: "text-clientpurple"
-                                    }, " right now !")), 4 === t && (0,
+                                    }, " зараз !")), 4 === t && (0,
                                         e.createElement)("h2", {
                                             style: {
-                                                fontFamily: "Outfit"
+                                                fontFamily: "Roboto"
                                             },
                                             className: "text-xl md:text-[40px] font-bold text-left"
                                         }, "My future ", (0,
@@ -3780,7 +3780,7 @@ to {
                             }, (0,
                                 e.createElement)("h2", {
                                     style: {
-                                        fontFamily: "Outfit"
+                                        fontFamily: "Roboto"
                                     },
                                     className: "text-xl md:text-[36px] font-bold text-left"
                                 }, "Share your email with us ", (0,
@@ -3842,13 +3842,13 @@ to {
                             }, (0,
                                 e.createElement)("h2", {
                                     style: {
-                                        fontFamily: "Outfit"
+                                        fontFamily: "Roboto"
                                     },
                                     className: "text-xl md:text-[40px] font-bold text-left"
                                 }, "Next up is a card that describes"), (0,
                                     e.createElement)("h2", {
                                         style: {
-                                            fontFamily: "Outfit"
+                                            fontFamily: "Roboto"
                                         },
                                         className: "text-xl md:text-[40px] font-bold text-left text-clientgreen"
                                     }, "the woman you aspire to be!"), (0,
@@ -3897,7 +3897,7 @@ to {
                             }), (0,
                                 e.createElement)("h2", {
                                     style: {
-                                        fontFamily: "Outfit"
+                                        fontFamily: "Roboto"
                                     },
                                     className: "text-xl md:text-[36px] font-bold text-center"
                                 }, "Thank you ", t < 768 && (0,
