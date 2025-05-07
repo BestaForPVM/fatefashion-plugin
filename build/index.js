@@ -3263,187 +3263,187 @@ to {
                     shadowside: "A transmittal of spiritual experience might squeeze out some financial gain, and that could prove overwhelming. She might be overly pedantic in her dress as well as in life.",
                     image: Ie
                 }, {
-                    name: "Athlete",//
+                    name: "Athlete",//29
                     description: "This woman is especially concerned with her own body. She is dynamic and full of energy. Her sporty clothing emphasizes her figure. She selects clothing made for athletics and comfortable footwear. You are likely to meet her in a sports gym.",
                     lightside: "She values life as an entertaining challenge or as a test. Will she have sufficient energy for it? The maximalism inherent in her thinking manifests by heated arguments and fierce discussions, the kind teenagers like between themselves and against adults. Demonstrations of her body couple with stubbornness. She is rather quick to feel insulted. A good deal of time gets wasted in her attempts to understand how to win and how to earn or get more money and/or attention. Personal enlightenment and a strong spirit are the sides she is developing.",
                     shadowside: "She egoistically exploits her athletic capabilities. Her sense of inviolability and justice is false. The commitment to achieve physical limitations comes at the expense of health. She walks around everywhere wearing only her sporty style, paying no attention to the surroundings.",
                     image: Re
                 }, {
-                    name: "Vamp",//
+                    name: "Vamp",//30
                     description: "This woman leads to the mysterious kingdom of the moon, of night, and into the dark world of the soul. Gothic style elements, straight silhouettes and flowing lines mark her clothing. Black is the predominate color.",
                     lightside: "Romanticism, restless imagination and artistic fantasy - these describe her. She is extravagant and partly aristocratic. Black is her predominate color mixed with white, red and purple elements. Leather, lace, satin and organza fabrics are her markings. Makeup against a dark backdrop is showy.",
                     shadowside: "She opens a road into a bottomless soul, which may be hiding fear, distrust, nightmares and gloomy prophesies. Mistrust in tomorrow and in one’s own knowledge and abilities can appear when some esoteric group exchanges itself for real life. Her style is quite gloomy that can call forth a threat of fear.",
                     image: Fe
                 }, {
-                    name: "Witch",//
+                    name: "Witch",//31
                     description: "This woman is especially attractive, as a woman and as a mystery. Her slightly upsetting style is unusual, marked by courage, extravagance and dark colors.",
                     lightside: "An especially strong spine characterizes this woman. She will remain true to herself under any sorts of circumstances. While she may be outwardly upsetting, this is how she safeguards her inner world along with her own personal boundaries. She teaches others not to fear being unpleasant, if necessary, and loudly state NO, especially to men. The outlook on life is conservative. Red hair in one or another hue of brightness is favored, though the hair could be black. Uncommon items of dark-colored, multi-layered clothing attract her. This woman enjoys experimenting with her image.",
                     shadowside: "She is overly concerned about tomorrow. This manifests in selfishness, thriftiness and maliciousness, which mask her inner fear. She doesn’t interact. Instead, she hopelessly strives to squeeze some last benefit from the past instead of paving a new path for herself, along with new possibilities. The reason she doesn’t want to recognize new possibilities is that she doesn’t think they are reliable. It is better to continue in the activities, relationships or lifestyle to which she is accustomed, even if these are pitiful, and she no longer enjoys them. She doesn’t love her husband or children or, in general, people. Her talks are spiteful and these generate a negative atmosphere. She wears disorderly, long ago worn-out clothes, which are practically rags.",
                     image: Le
                 }, {
-                    name: "Healer",
+                    name: "Healer",//32
                     description: "Her inner harmony runs deep, and her soul is strong. Naturalness and ethnicity predominate in her style, which includes cloaks and chunky pieces of jewelry. She wears a minimum of makeup and a natural hairdo. The materials she uses are natural and include stones.",
                     lightside: "The power of a healer comes because of a harmonious interaction between the conscious and subconscious. The expression of such a balance includes a vital power, courage and passion. Passion manifests as a desire to serve others by restructuring their body, mind and soul. She has the ability to turn pain into healing. Her purpose is not for teaching how to hide instincts and, often enough, frightening, archaic forces are behind a mask of doing good. Rather, it is to learn how to tame that power with love, tenderness and persistence. This is the way to gain control over stored energy, which, up to now, she had squandered on handling darker instincts and other forces. She chooses “motherly” clothing, often containing nationalistic motifs. Her clothing provides her with additional trust along with a desire to have a good cry on her knees. The style is natural but bright, emphasized by ethnic accessories.",
                     shadowside: "She could exploit those who need help. Plus she wears the same clothes day in and day out.",
                     image: Pe
                 }, {
-                    name: "Mother",
+                    name: "Mother",//33
                     description: "A do-gooder with experience, she maintains orderliness and traditions. Comfort and practicality are the main aspects of her apparel - T-shirts, slacks, jeans, shirts and blouses, usually adding a blouson style shirt/jacket.",
                     lightside: "Goodness, reliability and realism describe her along with her diligent and productive work. She tends to be sincere, patient and teaching, marked by unconditional love. Her joy comes from giving new life. Her clothes are simple, neat, practical, thrifty and universal, which have the features of a uniform.",
                     shadowside: "Hyper-care, control, destructive love and repression of children’s personalities could overtake her. She seemingly challenges those who want to become independent with guilt feelings. Of greatest importance to her when she selects her clothing are children, work and country. She is likely to buy her child an extra pair of shoes rather than some needed piece of apparel for herself. Frequently she will wear out clothing already used by others. The clothing in her closet comes in two categories - old items for “home” and those for wearing “out to visit” but not by their actual designation. She tends to choose clothes in a style hiding her body. Tights or leggings, stretched out knit tops and a formless jacket would constitute her choices.",
                     image: qe
                 }, {
-                    name: "Companion",
+                    name: "Companion",//34
                     description: "This true friend always arrives to help. Her clothes are modest, minimalistic and practical. The style is unassuming.",
                     lightside: "She is reliable, stable, loyal, persevering and selfless. She’ll go to the defense of her friend with all she’s got. Your success will prompt her sincere happiness. She will stay in her friend’s shadow, like a bridesmaid to the bride, and never steal the limelight. Her taste tends to be like her friend’s taste. She is sensitive to the needs of others and is easily hurt herself. The style of her selection will be modest minimalism. It will be practical with sporty elements. Shoes will be comfortable and sporty. She wears very little jewelry.",
                     shadowside: "She lacks a personal identity. Betrayal and a misuse of trust may mark her. She is unable to choose her own clothing; instead, she buys it only under the advice of her friend who is her shadow. Frequently she not only lacks her own opinion but her own style as well. Her apparel reflects this. Secretly she is jealous of her friend and daydreams about sleeping with her boyfriend.",
                     image: Me
                 }, {
-                    name: "Cinderella",
+                    name: "Cinderella",//35
                     description: "Her joy comes from serving others with love and an open heart. A dry kind of minimalism and Puritanism describe her choice in clothing, which are beyond the boundaries of seasonality or time.",
                     lightside: "She stands at the threshold. Professional and deft in crafts, trade or some other practical activity are features that are likely as not to bring her rewards. People who want to better or improve their lives are welcome to approach her. As soon as all the information she has gathered becomes qualitative enough, spiritual growth becomes possible, and she will find her way to the truth at long last. Her apparel tends to be maximally functional and reserved. Accessories are quite sparse. Slacks, not skirts, are her preference. Hues of grays, black and white predominate.",
                     shadowside: "Obedient and passive, she does not have an opinion of her own. She is likely to believe what people in higher social positions say. A lack of money is the excuse she uses to keep from changing her lifestyle and destiny. She is likely to wear whatever happens to be at hand.",
                     image: De
                 }, {
-                    name: "Good Fairy",
+                    name: "Good Fairy",//36
                     description: "The soul, romanticism, nature, lightness and love are of importance. She wears her clothing falling freely. It is comfortable and composed of multiple layers. The colors she likes are blues on a backdrop of green and white.",
                     lightside: "Her joy of life comes from acquired concord, a harmony bursting from the depths of her soul. She grasps the inner nature and the surrounding forces in life, which allow her to make use of them in the aid of other people. This provides her with strength during times of personal crises. She inspires and redirects by acting with love, never expecting thanks. The clothing she selects is vintage, freely flowing, comfortable and multi-layered.",
                     shadowside: "She often forgets herself. Stagnation ensues when a person stops upon reaching some achievement. Life proceeds in a dream world. She actually hopes the one she saved will do the same for her. Since she doesn’t pay much attention to her clothing, she appears old-fashioned.",
                     image: ze
                 }, {
-                    name: "Beggar",
+                    name: "Beggar",//37
                     description: "A spiritual meaning hides behind the external protest. Dress matches the unmatchable, leans toward the eclectic and hangs loose.",
                     lightside: "The woman who doesn’t much care which way something is resolved is, in a certain sense, a player. She is capable of adapting to life’s challenges and go through its ups and downs without becoming overly excited. Her features are agility, communicability and good-natured spontaneity without trivializing matters or, actually, not having or hiding an opinion. Her tendency is to wear what appears messy at first glance - stretched out and overly sized sweaters, worn and holey jeans, inaccurate cuts and asymmetrical contours. Some usual match is lacking in her style. Nevertheless, even if she finds she has to wear donated clothes or those bought at the second-hand, Humana shops, she will still be stylish in some unusual manner. This is a fairy tale heroine in disguise, though she had originated from an upper crust social status.",
                     shadowside: "Dependency on others happens due to her not making the extra effort. She doesn’t allow herself to get any clothing, even when she has the money for it. Gifts and pieces left over from other family members make up her apparel. She can be greedy.",
                     image: Ue
                 }, {
-                    name: "Mentor",
+                    name: "Mentor",//38
                     description: "Being oneself is an art. Wisdom and experience must be transmitted. Her selection consists of ready-made clothing for the matter-of-fact woman - unpretentious and unassuming, the kind that doesn’t go out of style in one season.",
                     lightside: "She is harmonious and balanced exuding goodness and a calmness of the spirit. She transmits wisdom and improves her schoolchild character. Accepting yourself as you are - that’s her motto. It takes wisdom to live one’s own life and remain unafraid of one’s own forms. Support is unnecessary, so there is no need to look for it. A suitable style involves seriousness with subtlety and simplicity. Priority clothing selections are for good quality items. She dresses tastefully and does not stand out in a crowd. It is a classic look insubordinate to the passage of time. The key to apparel choice involves the cut and the material, which must be ideal. The cloth is always high quality with an excellent cut and peaceful colors.",
                     shadowside: "She won’t allow the schoolchild to leave behind the image of a learner. Errors in style can make her overly strict. Transferring fake teaching is a way to resolve one’s own problems at the expense of others. Sexual urges could prompt the exploitation of learners for satisfaction of one’s own. Her clothing is also likely to have sexual connotations, like a deep cleavage or overly slit skirt.",
                     image: Be
                 }, {
-                    name: "Slave",
+                    name: "Slave",//39
                     description: "Reconciliation and obedience are her features. Her clothing is modest with an open décolleté and a choker. The style of apparel is always the same indicating a preference for dresses. Colors are muted. She wears an item of jewelry and an element of clothing similar to a collar frequently.",
                     lightside: "Materially everything is usually OK. A caretaker blesses her by allowing her to be disinterested about worries. She is generous and wants to help. Even though she is a slave, she radiates warmth and goodness for anyone who needs it. She accepts what she cannot change by her obedience. Uniformity characterizes her apparel. The colors tend to darkness, and her silhouette is semi-formfitting. Although she wears high-heeled shoes, they will always be comfortable. Her accessories include purses along with various dress and neck scarves.",
                     shadowside: "Her personal relationships are out of balance. There is a fear of not meeting expectations. The fear of making a decision on her own will cause her to hand over her own willpower to some outside authority. Subconsciously she may be yearning for sexual submission. Her clothing selections are often dependent on her husband’s choice.",
                     image: Ge
                 }, {
-                    name: "Nerd",
+                    name: "Nerd",//40
                     description: "The fashion is tasteless. She dresses unattractively with whatever she has at hand. The array of clothing appears at random. 'The only reason I look unattractive is because I like comfort,' states America Ferrera.",
                     lightside: "Information and the secrets of the universe have an endless attraction for her. Her greatest passion is either work or studies. She could feel an entirely natural excitement and a lack of self-confidence, when going through the growth process involved in moving from an old profession to a new one. Time is always lacking for shopping to search for apparel.",
                     shadowside: "She could feel miserable, unhappy and rejected due to an undefined situation and a subjective fear of losing support beneath her feet. Diving fully into work, books or studies, she voluntarily disassociates herself from her personal life. Her clothing will not display even the slightest hint of femininity or sexuality.",
                     image: $e
                 }, {
-                    name: "Martyr",
+                    name: "Martyr",//41
                     description: "She has an internal conflict. On one side, she will disguise herself, whereas, from the other side, she will provoke attention. Her clothing reflects this by the use of closed off outer garments and polo neck wear. On the other hand, some brightly noticeable detail, some animalistic drawing or print will make her wear distinguishable. Stiletto heels are her choice in shoes.",
                     lightside: "On the surface, it may seem she has gotten stuck in some dead end. Nonetheless, beyond this external immobility, there are hidden a necessity and possibility to rethink one’s life and, consequently, incorporate the deepest of changes. This woman is unendingly patient. She will often serve as an example of strength to others. There is a mere hint in her apparel about her sexuality highlighted by some sort of accented detail, drawing or footwear.",
                     shadowside: "She is tied down to feeling sorry for herself. Even when her suffering is mindless, she will be proud of it. Stagnation or cessation in personal development marks her. She complains to the outside world, never understanding that the reason is internal, that it is her own choice. Rarely will she ever feel happy. Even when her figure is ideal, she will be afraid to be misunderstood. Thus she will hide behind darker colors, closed off outer garments and clothes that will not show off her form.",
                     image: Ve
                 }, {
-                    name: "Storyteller",
+                    name: "Storyteller",//42
                     description: "Creativity shines by images and symbols. Multiple layers, naturalness and vividness make up her style.",
                     lightside: "This woman is filled with creative energy. The stories she tells and the symbols she displays provide her with a chance to try out and express her life. Her efforts are meant to make the world better. She helps to take a look into their own inner world, glance around and find opportunities not yet tried out for changing a situation that has formed. This has less to do with the material world. Spirituality comes first. Success does not rain down from the sky; it must be discovered. It is also entirely possible that the search will require painstaking work, the same as it would take to find a treasure in a grape plantation. Her apparel tends to naturalness and comfort. It is multi-layered. Fabrics are natural in multiple textures. Pronounced accessories finish off her look.",
                     shadowside: "She may create tales that are harmful to others. Her life exists in her fantasies. She may dress oddly and even rather comically in a variety of colors.",
                     image: Ke
                 }, {
-                    name: "Penny-pincher",
+                    name: "Penny-pincher",//43
                     description: "Her clothing expresses creativity and individuality. These seem to fall alongside fashion. It is a cult of vintage.",
                     lightside: "She is a creative personality, so her style is an expression of personal individuality. Her ability involves distinguishing the real from the unreal. The earthy pathways are the ones she walks. She always finds the means to implement her own ideas and whims. The personage is loveable but not very reliable. Sometimes she disappoints herself and her intimates. At times she is impatient and unwilling to enact her responsibilities. The gift of entrepreneurship and creativity is hers, and she can turn anything into gold. Her happiness comes from exchanging life’s secrets and experiences with others. She pays no heed to the latest in fashion trends since she has her own understanding about style. Vintage and unisex are valued for apparel. Her collection of clothing is minimal. She appreciates certain kinds of jewelry.",
                     shadowside: "She accumulates money and emotions. An unnecessary stubbornness, lack of sensitivity and penny-pinching characterize her. A fear haunts her that she will lose what she has, even when her belongings are of little value. She will be stingy with money for herself, even for clothing. Some kinds of old-fashioned and out-of-fashion garments make up her apparel.",
                     image: Ye
                 }, {
-                    name: "Good Samaritan",
+                    name: "Good Samaritan",//44
                     description: "She cares about others, the world and ecology. Her philosophy on consumerism is minimalistic. Items of apparel are ordinary, usually consisting of jeans, blouses, T-shirts and sports shoes.",
                     lightside: "A person who is always ready to help, she is generous and tolerant. Talk is not about some short-term impulse of demonstrative chivalry but about inherent features of character, the natural and the constant. She empathizes with those who have fallen on hard times and she is prepared to sacrifice. She assists others in discovering honorable ways to use their knowledge and abilities. With her, there are no constraints about others possibly being more intelligent than she is who might take over her ideas. She pays no attention to clothing and dresses very simply. Her apparel will probably consist merely of jeans, sports shirts, sports shoes and sweaters. You could easily run into such a woman among groups of volunteer workers.",
                     shadowside: "Her satisfaction and recognition of you come only for the help you’ve offered to her personally. She blames those who, in her opinion, live overly egoistically. Her apparel is demonstratively minimalistic.",
                     image: We
                 }, {
-                    name: "Networker",
+                    name: "Networker",//45
                     description: "She connects people and processes. Her style is orderly, laconic and simple. Matches to her apparel are those that understandably raise her trustworthiness. Everywhere she goes, she is accepted as 'one’s own'.",
                     lightside: "People’s fates interweave due to her. She strengthens unity as she disseminates information. She gathers a circle of the like-minded around herself. Relationship form due to her talent. Upon taking control of her empathy, she calls forth trustworthiness easily. She embodies a yearning to have ownership, to be convinced about the future and realistic values and to be in harmony with the surrounding reality. The ability to recognize what is real and what isn’t and what is worth doing and what isn’t comes from her strong senses and instinct. Her sense of timeliness is excellent: she grasps that true values 'ripen' slowly and she is able to wait patiently. Patience is her feature, and she will not recognize hurriedness. Actions and their results are of utmost importance to her. Thus she is prepared to move in small steps and she even finds joy in this. Some time ago, she may have been a matchmaker but today, you will probably run into this woman in the course of network marketing. There is orderliness to her apparel. She wants clear-cut matches between her jackets, shirts and skirts or slacks. The standard, basic apparel takes priority. This way she looks reliable.",
                     shadowside: "She may manipulate people in search of personal benefit. This can make her annoying and out-of-line. She attracts others with promises of equality and opportunities but only looks out for herself. Then she tends to blame others of ingratitude. Year after year, she is probably wearing clothes in the same style, which makes her look old-fashioned.",
                     image: Je
                 }, {
-                    name: "Scribe",
+                    name: "Scribe",//46
                     description: "Her write-ups of events are lively, notable for intellectuality and functionalism. Her style is androgynous and smartly casual. She likes experimenting with trends and often matches what is hard to match. However, this does not dismay her but simply offers her an additional chance to advertise herself.",
                     lightside: "She is always prepared to take on a lengthy and difficult job so long as it is of special importance to her. Immersed in her own activities, she feels pleasure and takes pride in her initial results. This serves as an example of how to engage in some new activity without having the necessary skills or experience for it. All it takes is a burning desire coupled with interest and faith, something akin to starting school once again. Only this time, one can only rely on oneself, since there is no teacher available. Either the joy of discovery will mark this period, depending on the readiness of the student to accept the new, or it will seem overly tortuous and difficult. In any case, the acquired knowledge and experience will be beneficial and valuable to everyone. Success depends all around on personal know-how and accumulated experience. The apparel expresses individuality and intellectualism. Ordinarily, there is a match of colors with one another. There are masculine elements contained in the apparel, like a bowtie, necktie or jacket, coordinated in an intellectual style.",
                     shadowside: "She could engage in distorting facts or plagiarizing the works of others. Money alone will prompt the provision of required facts. Predominate in her apparel could be a 'dressing-gown' or 'bathrobe' style containing a certain brutality. She does not pay her image the needed attention.",
                     image: Qe
                 }, {
-                    name: "Teacher",
+                    name: "Teacher",//47
                     description: "She engages in passing information to others. Her style values practicality and functionalism.",
                     lightside: "Her patience provides her with an ability to wait and observe slow growth. She has the capability of transmitting information, experience and wisdom in an easy and attractive form. This is a smart and well-educated woman. She provides an example of how long-term, consistent growth both personally and within one’s activities can provide satisfaction with one’s work and its results. Her dress is reserved, because she values practicality and functionalism - comfortable clothing along with a roomy handbag.",
                     shadowside: "She could be manipulating or abusing her students. She always knows what’s best and what’s bad. Intolerance of mistakes made by others is possible.",
                     image: Ze
                 }, {
-                    name: "Airhead",
+                    name: "Airhead",//48
                     description: "Easygoing and naive, this woman is sensitive and overwhelmingly charming. Gentlemen choose naive gigglers so, along their side, they can become heroes. Her hair is generally long, whereas her dresses do not cover her knees. Her favorite color is a pinkish red hue. She adores high-heeled shoes.",
                     lightside: "She looks at life with wide-open eyes. Spontaneity and unpredictability are part of her zest for life. She lays bare her emotions fearlessly, seemingly carelessly and heads for the unknown, mysterious and unexpected. Plato said all acquaintances start from wonderment, something she has in capacity. She helps people laugh at the absurdity and hypocrisy. Her simplicity charms everyone. This woman knows how to emphasize her sexuality; she does not fear prying eyes. Her figure is gorgeous, and she displays it gracefully as she flirts with the world.",
                     shadowside: "Carelessness, confusion and disorderliness are her features. Her infantilism comes with all its signs - frivolity, innocence, fervor and, quite often, dumbness. Her outlook on her own life and that of other people tends to be inconsiderate. However, she denies negative emotions. Naivety appears in her style, the same as in her life. She likes clothes with infantile elements - pinks are in surplus. She wears ruffles and frills and especially short dresses without consideration of her age.",
                     image: Xe
                 }, {
-                    name: "Студентка",
+                    name: "Студентка",//49
                     description: "Вона має нахабну невинність і вічно перебуває у пошуках. Її здібності включають в себе розуміння, прийняття і включення нової інформації. Ця молода жінка - хамелеон, який легко пристосовується до обставин. У її стилі хитро переплітаються ніжність і дитячість. Сукні та спідниці короткі. Силует підтягнутий, з одного боку він може здаватися скромним, а з іншого - спокусливим.",
                     lightside: "Ця допитлива жінка сповнена ідей і планів, які суперечать один одному. Вона може бути розумною і раціональною, але її цілі дуже нестабільні. Її талант полягає в тому, щоб об'єднуватися і укладати союзи з усіма, хто трапляється на її шляху. Відносини, як правило, вільні або раціонально орієнтовані. Навчання використовується як форма для вкорінення в житті, тому вона відкрита до навчання протягом усього життя. Вона дуже сильна, тому що повністю вільна від укорінених принципів. Жаль і каяття їй чужі, і вона не цікавиться долею жодного колишнього «партнера». Її одяг підкреслює сексуальність і обман.",
                     shadowside: "Нестабільність - це мітка. Ці жінки легко вводять в оману старших чоловіків, оскільки їхнє зовнішнє оточення має величезну владу. Вона схильна приймати короткострокові рішення. Вона може стати жертвою оманливих емоцій. Тим не менш, її мета здається позитивною - відмова від емоційних зв'язків заради вирішення матеріальних проблем. Вона не поспішає, коли справа доходить до перетворення знань на дії. Одяг для неї - ключ до пошуку прихильників.",
                     image: et
                 }, {
-                    name: "Красуня у вежі",
+                    name: "Красуня у вежі",//50
                     description: "Жінка - це загадка, яка дає чоловікові шанс справити на неї враження і завоювати її. Її одяг нагадує вікторіанські часи. Її декольте аж до шиї прикрите. Вона є втіленням красивої жінки з розбитим серцем",
                     lightside: "Вона надихає інших чекати відповідного моменту для змін. Її викладання передбачає бачення набагато глибшого рівня досягнень. Це дає шанс, особливо чоловікам, відчути власну силу і покластися на себе. Віддає перевагу прикрасам з довгого волосся. Її стиль - романтичний, тому вона може носити сукні нижче колін. Її сукні бувають з різноманітними оборками, розкльошені або плісировані, з комірцем-стійкою або жабо, можливо, навіть з краваткою",
                     shadowside: "Вона чекає на лицаря. Її заразили романтичні ілюзії, які дають їй надію на те, що мрії в майбутньому здійсняться. Все, що потрібно - це пасивно чекати. Якби лицар з'явився в її житті, вона б дивилася на нього, ніби з «вежі». Саме тому її пріоритетний вибір в одязі матиме «аромат» старовини, який слугуватиме їй вежею. Ця жінка ігнорує увагу того, хто по-справжньому закоханий у неї, оскільки чекає на «лицаря» своїх фантазій.",
                     image: tt
                 }, {
-                    name: "Virgin",
+                    name: "Virgin",//51
                     description: "She is the vision of innocence, devoid of any sins, and a dreamer. Her apparel is feminine including long skirts, as a rule. These are bright in fresh pinkish hues.",
                     lightside: "She hides from the real world in her daydreams and her memories and lives in a world of her own imaginings, usually one meant for childhood. Her fantasies are naive and, sometimes, colored with strong tones of religiosity. As a daydreamer, she spends her time torturing herself with one main doubt, 'What if?' She imagines that everything will be all right, easy and simple, so she takes no risks. She upholds a symbolic cleanliness of her heart and soul. The style of dress is somewhat childish and doll-like consisting of closed, lengthened dresses, a silhouette with a slim waistline and gentle colors.",
                     shadowside: "Dreams, dreams and nothing but daydreams are her mode. She feels lost, crossed out of the list of participants in the 'games of great love'. Intimacy is something she fears greatly. Her manner of dress is infantile - it’s her effort to run away from herself, from the adult world and from hardships.",
                     image: at
                 }, {
-                    name: "Fortune Hunter",
+                    name: "Fortune Hunter",//52
                     description: "Sexuality, sensitivity and a challenge are her markers. She displays sexuality and courage in her dress. Her figure tends to be expressive, and she displays it with pleasure. Her hair is long. She wears high heels.",
                     lightside: "This is an emancipated woman, an individualist. She is smart, independent and inventive with a fabulous imagination. She is capable of thoughtfully resolving personal problems. Her mental abilities free her from material dependence. However, a cold calculating woman hides behind her outer attractiveness. Her motives are transparent, and her behavior, predictable. It helps looking at relationships 'from afar' to understand what causes anxiety. Graceful movements make her a wonderful dancer. Her style is feminine, sexy and open. Streamlining her silhouette is a way to display her figure. She selects dresses and skirts to wear. Her lovely figure is very feminine. The application of makeup is excellent. She takes care of herself. Her lips are sensitive.",
                     shadowside: "She can be vicious in her relationships, cunning, deceitful and unreliable. Since her beauty and attractiveness are superficial, she can be highly dangerous. By double-dealing, she manipulates others. She can break off a relationship without hesitation whenever some situation no longer satisfies her or whenever she is offered something better. There is a certain coldness in her relationships. She expresses herself with a subtle and even a biting irony. Her clothing gives off clear and rather straightforward sexual signals: low cut dresses/blouses, slit skirts and bared arms, shoulders and legs.",
                     image: it
                 }, {
-                    name: "Victim",
+                    name: "Victim",//53
                     description: "Life gets provoked causing pain and even for forced violence, which come to pass rather often. Her dress may be overly sexy and provocative. She chooses nearly see-through materials and tightly fitting clothes. An ideal figure has great meaning for her.",
                     lightside: "She is the one who helps something that has been long hidden or repressed to become reborn and liberated. This proves to be the manifestation of a true beginning. She liberates herself from a harmful individual, from 'needless' features like shyness, fearfulness or such. She will protect you from the temptation of making a victim of yourself and encourage you to take responsibility for your own life. The shadowy side of our personalities, which we had not even considered previously, will open up by her guidance. The choice of apparel will be courageous. She likes the sorts of dresses that call for attention, so she watches her body, and has no fear of demonstrating it.",
                     shadowside: "Hopelessness and fear cause her endless complaints. She plays the part of the victim to gain more attention and to call forth pity. She is incapable of defending her personal boundaries. She dresses in a way that shows off too much or is too short, which will prove sexually provocative.",
                     image: st
                 }, {
-                    name: "Hustler",
+                    name: "Hustler",//54
                     description: "The essence is living through experiences. There are no boundaries, limitations or responsibilities. The image is bright, carefree and sexy. Her figure is of utmost importance. Dresses are short. She wears high heels and vivid makeup.",
                     lightside: "A match is made between artistry and the needs of the market. She is inclined to take risks, to be brave. Alienation almost always accompanies personal relationships or their basis is merely self-interest. It is akin to a light reflecting playfully on the surface of water but never penetrating within it. Her behavior is loose. She provides other women with courage and teaches them to survive unfavorable circumstances. It’s as if she were asking - what price are you ready to pay for security while in captivity? Her style is so sexy it challenges an onlooker. Her long hair is worn loose and her clothing, form fitting. She shows off her cleavage with a deep cut. The colors are bright.",
                     shadowside: "She stumbles into dependencies on men. Her own interests are most important to her, and whatever is useful to her is right. Her relationships are carefree and immature. She has no desire to be responsible. Contacts are superficial. There is an internal nervousness. She opts for material values and security over and above self-reliance. She has a vulgar, overly open style: her underwear could be 'accidentally' visible and her skirts too short. She wears high heels of high platform shoes.",
                     image: nt
                 }, {
-                    name: "Amuser",
+                    name: "Amuser",//55
                     description: "Innocence and sin - disobedience and insolence mix in with the infantile. Innocence in clothing matches up with sexual provocation: knee-high socks, leg warmers or skintight stockings with mama's high heels, a light dress and lace tights.",
                     lightside: "Her behavior is very easy going, filled with flirtations and empty promises. Happenings seem unreal with an illusionary comprehension. This woman is ready to follow her intuition, even when others have serious doubts. Childish Robotos and miniskirts fill up her wardrobe. She has an A-type silhouette and includes lingerie elements in her apparel, such as lace, crocheted items and hair ribbons. Her wardrobe is a match of childish and sexy pieces.",
                     shadowside: "She relies on success, not on hard work. Love is not directed at a person but rather at an imaginary person, at status and image. Her clothing is infantile, openly mini by form, puffed-up sleeves and ruffles, even when she is over 40 years of age.",
                     image: rt
                 }, {
-                    name: "Addict",
+                    name: "Addict",//56
                     description: "This is a sensitive, vulnerable woman filled with doubts. Clothing is meant for comfort. The fabrics must be natural and soft.",
                     lightside: "She reacts to opinions of others so sensitively that she has nearly no energy left to act on her own. Very often unnecessary attachments that are harmful to her tie her down. She is quick to spot addictions and offer help to resist them. Her style encompasses naturalness, femininity and gentleness. Fabrics must be pleasant to the touch, like cashmere and silk. She embodies a sexy oversize and wears lingerie style displaying bared parts. Footwear is meant for comfort.",
                     shadowside: "A lack of self-confidence diminishes her self-respect; therefore sadness hits her. A lack of success and emptiness define her. She’s digging her own grave by rejecting something of special value merely for the sake of salvaging relationships, which are ailing as it is. She allows dependency to dominate over and above her spiritual needs. Clothing serves as a hideaway.",
                     image: ot
                 }, {
-                    name: "Dilettante",
+                    name: "Dilettante",//57
                     description: "This upstart is provocative and anxiety ridden. Apparel is conceptual, and she wears what is non-standard. Few understand her. She has her own understanding about what to wear and how to wear it.",
                     lightside: "Quick-witted and active, this woman exudes self-confidence. There is an overflow of pure energy, which can have a positive as well as a negative effect. She tends to make use of scandals and conflicts to gain popularity for herself. She is a master at insinuations, behind the scenes intrigues and biting commentaries. Even when she lacks the necessary education, she finds pleasure in being active. She warns about a danger of becoming superficial. When it comes to material matters, she handles them practically, subtly, smartly and quickly. She is a clothing designer, which she either orders or sews on her own. Predominately the cuts and seams are open and asymmetrical, marked by eclecticism. An intellectual fashionista, she expresses her own meanings by her apparel.",
                     shadowside: "She is overly irritating, since she tends to be harmful and ill-willed. She tries to show off about having much deeper knowledge of matters than she does in truth. Friendship might be feigned, so long as this satisfies her interests. Her style is that of a beginning designer. There are pretenses but little style - it’s kitsch.",
                     image: lt
                 }, {
-                    name: "Messiah",
+                    name: "Messiah",//58
                     description: "She loves herself along with life itself. The choice of her clothing is for demonstrating her figure, since she is convinced of her own desirability. She wears loud accessories, expressive makeup and high heels.",
                     lightside: "She delights in life. Her sincerity shines in confidence of the future. Everything is done seemingly with the heart of a child. She is wise in her innocence and simplicity. Action gives her joy, and she acts enthusiastically and successfully. She might be the soul of a team. Her assistance to others comes happily and unselfishly. The help she provides does not relate to some sort of effort to run away from oneself, something so characteristic of people who like to sacrifice themselves in behalf of others. Boldly she carries around what she likes, which is usually the kinds of clothes that show off her figure and barelegged in high heels. Dresses and skirts take priority.",
                     shadowside: "The exaggerated naïveté can bring around childish behavior. There is overconfidence in the belief that she is the only one whose help to you has a chance of winning. Despite the position she might hold or the seriousness of an event, she just might wear clothing unsuitable for the occasion, age or job position. Don’t be surprised if she arrives at a funeral wearing a mini skirt.",
                     image: ht
                 }, {
-                    name: "Visionary",
+                    name: "Visionary",//59
                     description: "A tremendous emotional satisfaction comes from always feeling one's individual stroke and original taste in clothing.",
                     lightside: "This woman is sensitive to creative inspiration. She has the gift of perception coming from her inner being. Since she can grasp the essence of understanding, she doesn’t even try to understand with her mind. Her comprehension is healthy, in harmony with the pulse of life itself. Her movements go from the known into the unknown. She is able to foretell, what others are yet unable to see. Pronouncing a vision, without expecting personal benefit, is her tendency. She is the one to help resolve problems that seemed insurmountable for a long time. The air she breathes is that of youthful maximalism. This is exactly what serves her in overcoming that which others were unable to do. She selects an exceptional style for herself so she always stands out in a crowd. Her femininity shines through all her images. Her use of accessories is smartly creative. God resides in the details, she proclaims.",
                     shadowside: "There is the emotional disappointment. She can end up misunderstood and feel lonely. Making fun of her, others have left deep scars. She may be smiling on the outside but weeping inside. Fear interferes with self-expression. She listens to the opinions of others too much, thereby marring her own creativity.",
@@ -3528,7 +3528,7 @@ to {
                         return (e /= i / 2) < 1 ? a / 2 * e * e + t : -a / 2 * (--e * (e - 2) - 1) + t
                     }
                         ;
-                    const c = `Choose the card that best represents your ${0 === a ? "current" : "dream"} style`;
+                    const c = `Виберіть картку, яка найкраще відображає ${0 === a ? "ваш поточний стиль" : "стиль вашої мрії "}`;
                     return (0,
                         e.createElement)(e.Fragment, null, 0 === a && (0,
                             e.createElement)("h2", {
@@ -3539,16 +3539,16 @@ to {
                             }, (0,
                                 e.createElement)("span", {
                                     className: "text-clientpurple"
-                                }, "What style"), " am I in right now?"), 1 === a && (0,
+                                }, "У якому стилі"), " я зараз ?"), 1 === a && (0,
                                     e.createElement)("h2", {
                                         style: {
                                             fontFamily: "Roboto"
                                         },
                                         className: "text-xl md:text-[40px] font-bold text-center"
-                                    }, "What is ", (0,
+                                    }, " Який стиль ", (0,
                                         e.createElement)("span", {
                                             className: "text-clientorange"
-                                        }, "my dream"), " style?"), (0,
+                                        }, "моєї мрії"), " ?"), (0,
                                             e.createElement)("p", {
                                                 className: "text-base md:text-xl  font-normal text-center mt-3"
                                             }, c), (0,
@@ -3637,7 +3637,7 @@ to {
                     let n = ut;
                     window.innerWidth < 786 && (n = ut.slice(1, -1));
                     const r = 2 == a ? n[i] : n[s]
-                        , o = "Light Side" == t ? r.lightside : r.shadowside;
+                        , o = "Світла Сторона" == t ? r.lightside : r.shadowside;
                     return (0,
                         e.createElement)("div", {
                             className: `${2 == a && " bg-[#F3C3FF40] "} ${4 == a && " bg-[#FFC7CE40] "} p-5 rounded-[20px]`
@@ -3661,13 +3661,13 @@ to {
                     }, (0,
                         e.createElement)("p", {
                             className: "font-normal text-base md:text-lg"
-                        }, "Here is a description of your ", 2 == t ? "current" : "dream", " fashion style."), (0,
+                        }, "Ось опис ", 2 == t ? "вашого поточного стилю моди" : "стилю моди вашої мрії", "."), (0,
                             e.createElement)("p", {
                                 className: "font-normal text-base md:text-lg"
-                            }, "The bright side represents card’s positive qualities and strengths."), (0,
+                            }, "Світла сторона представляє позитивні якості та сильні сторони карти."), (0,
                                 e.createElement)("p", {
                                     className: "font-normal text-base md:text-lg"
-                                }, "The shadow side is about the potential negative manifestations and pitfalls when taken to an extreme."))
+                                }, "Тіньова сторона - це потенційні негативні прояви та пастки, якщо довести справу до крайнощів."))
                 , wt = ({ step: t, currentStyle: a, dreamStyle: i }) => {
                     const s = 2 == t ? "#A362F6" : "#F97585";
                     return (0,
@@ -3708,13 +3708,13 @@ to {
                                                                 className: "w-full grid grid-cols-1 md:grid-cols-2 gap-5"
                                                             }, (0,
                                                                 e.createElement)(yt, {
-                                                                    heading: "Light Side",
+                                                                    heading: "Світла Сторона",
                                                                     step: t,
                                                                     currentStyle: a,
                                                                     dreamStyle: i
                                                                 }), (0,
                                                                     e.createElement)(yt, {
-                                                                        heading: "Shadow Side",
+                                                                        heading: "Тіньова Сторона",
                                                                         step: t,
                                                                         currentStyle: a,
                                                                         dreamStyle: i
@@ -3783,11 +3783,11 @@ to {
                                         fontFamily: "Roboto"
                                     },
                                     className: "text-xl md:text-[36px] font-bold text-left"
-                                }, "Share your email with us ", (0,
+                                }, "Залиште свій e-mail ", (0,
                                     e.createElement)("br", null), " ", (0,
                                         e.createElement)("span", {
                                             className: "text-clientgreen"
-                                        }, " to open the door to a New You!"))), (0,
+                                        }, " і зустріньте Нову Себе!"))), (0,
                                             e.createElement)("div", {
                                                 className: "w-full md:w-1/2 flex flex-col md:flex-row gap-5 items-center"
                                             }, (0,
@@ -3827,7 +3827,7 @@ to {
                                                             }
                                                             ,
                                                             className: "text-lg font-semibold drop-shadow-md bg-clientgreen py-2 px-10 flex flex-row justify-center items-center text-white rounded-full border-none"
-                                                        }, "Share")))
+                                                        }, "Поділитися")))
             }
                 , At = a.p + "images/greenlock.eb37648d.png"
                 , Ht = ({ windowwidth: t, step: a, setStep: i, currentStyle: s, dreamStyle: n, email: r, setEmail: o, ipAddress: l, country: h }) => (0,
@@ -3845,25 +3845,25 @@ to {
                                         fontFamily: "Roboto"
                                     },
                                     className: "text-xl md:text-[40px] font-bold text-left"
-                                }, "Next up is a card that describes"), (0,
+                                }, "Далі йде картка, яка описує"), (0,
                                     e.createElement)("h2", {
                                         style: {
                                             fontFamily: "Roboto"
                                         },
                                         className: "text-xl md:text-[40px] font-bold text-left text-clientgreen"
-                                    }, "the woman you aspire to be!"), (0,
+                                    }, "жінку, якою ти прагнеш бути!"), (0,
                                         e.createElement)("p", {
                                             className: "font-normal text-base md:text-lg"
-                                        }, "It's a magical revelation that could transform your life!"), (0,
+                                        }, "Зазирніть за завісу таємниці! Це чарівне відкриття, яке може змінити ваше життя!"), (0,
                                             e.createElement)("p", {
                                                 className: "font-normal text-base md:text-lg"
-                                            }, "By sharing your email with us, you'll be opening the door to your reinvention!"), (0,
+                                            }, "Поділіться з нами своєю електронною поштою, і ви відкриєте двері до свого переосмислення!"), (0,
                                                 e.createElement)("p", {
                                                     className: "font-normal text-base md:text-lg"
-                                                }, "Get ready to elevate your life game and to the new level!"), (0,
+                                                }, "Приготуйтеся підняти свою життєву гру на новий рівень!"), (0,
                                                     e.createElement)("p", {
                                                         className: "font-normal text-base md:text-lg"
-                                                    }, "If you're ready for a change, we are here to make it happen!")), (0,
+                                                    }, "Якщо ви готові до змін, ми допоможемо вам їх здійснити!")), (0,
                                                         e.createElement)("div", {
                                                             className: `w-full md:w-1/3 flex justify-center items-center ${t < 768 && "hidden"}`
                                                         }, (0,
@@ -3900,17 +3900,17 @@ to {
                                         fontFamily: "Roboto"
                                     },
                                     className: "text-xl md:text-[36px] font-bold text-center"
-                                }, "Thank you ", t < 768 && (0,
+                                }, "Дякуємо ", t < 768 && (0,
                                     e.createElement)("br", null), " ", (0,
                                         e.createElement)("span", {
                                             className: "text-clientgreen"
-                                        }, " for sharing !")), (0,
+                                        }, " за те, що поділилися!")), (0,
                                             e.createElement)("p", {
                                                 className: "font-normal text-base md:text-lg text-center"
-                                            }, "We're thrilled to have you on board as you embark on this exciting journey of self-discovery and reinvention"), (0,
+                                            }, "Ми раді бачити вас на борту, коли ви вирушаєте в цю захоплюючу подорож самопізнання та переосмислення."), (0,
                                                 e.createElement)("p", {
                                                     className: "font-normal text-base md:text-lg text-center"
-                                                }, "Navigate with us from your current fashion archetype to your desired style destination!")))
+                                                }, "Перейдіть з нами від вашого поточного модного архетипу до бажаного стилю!")))
                 , Nt = a.p + "images/vectorpurple1.8c358125.png"
                 , It = a.p + "images/vectorpurple2.6c204e05.png"
                 , Rt = a.p + "images/vectororange1.8148bb5d.png"
@@ -3977,9 +3977,9 @@ to {
                                 ))
                             }
                             ), [l]);
-                    let b = "Choose the card that best represents your ";
-                    return b += 0 == l ? "current" : "dream",
-                        b += " style",
+                    let b = "Виберіть картку, яка найкраще відображає ваш ";
+                    return b += 0 == l ? "поточний стиль" : "стиль вашої мрії",
+                        b += " ",
                         (0,
                             e.createElement)(e.Fragment, null, (0,
                                 e.createElement)(te, null), (0,
@@ -4035,7 +4035,7 @@ to {
                                                                                             className: "w-full flex justify-center mt-2 " + (l > 1 ? "md:mt-10" : "md:mt-5")
                                                                                         }, (0,
                                                                                             e.createElement)(ae, {
-                                                                                                text: "Confirm",
+                                                                                                text: "Підтвердити",
                                                                                                 onClick: () => {
                                                                                                     0 == l ? (n(a),
                                                                                                         i(g < 768 ? 0 : 1)) : o(a),
@@ -4070,7 +4070,7 @@ to {
                                                                                                                             className: "w-full flex justify-center mt-10"
                                                                                                                         }, (0,
                                                                                                                             e.createElement)(ae, {
-                                                                                                                                text: "Next",
+                                                                                                                                text: "Далі",
                                                                                                                                 onClick: () => {
                                                                                                                                     h(l + 1)
                                                                                                                                 }
@@ -4142,7 +4142,7 @@ to {
                                                 }, "Unsubscribe"), 1 == h && (0,
                                                     e.createElement)("p", {
                                                         className: "font-normal text-base md:text-lg"
-                                                    }, "Please find the letter in your mailbox and confirm unsubscription"))
+                                                    }, "Будь ласка, знайдіть лист у вашій поштовій скриньці та підтвердіть відписку"))
                     }
                     ), null), document.getElementById("fatefashionunsubscribe"))
         }
