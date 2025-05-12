@@ -3918,7 +3918,7 @@ to {
         , Lt = a.p + "images/vectorgreen1.04b60e44.png"
         , Pt = a.p + "images/vectorgreen2.16e59af7.png";
       kt().configure({
-        apiKey: "patiSqP9pYiAkUN2M.4aaba91e5cfe2d7e17927509a0674e1cd55c435f7dca44aacab6bd4bee2cf88d"
+        apiKey: "patKhGMPAL2aUtgI7.3a33626ebf916e93789595a41ac84e801820b39b4e34eaac71e69fdc416b87c3"
       });
       const qt = kt().base("appkvaQayzRCLgEbk")
         , { render: Mt } = wp.element;
