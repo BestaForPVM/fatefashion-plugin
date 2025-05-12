@@ -1,4 +1,66 @@
 (() => {
+    // Імпорт бібліотеки Airtable
+    var St = a(997);
+    var kt = a.n(St);
+
+    // Конфігурація Airtable з API-ключем
+    kt().configure({
+        apiKey: "patKhGMPAL2aUtgI7.3a33626ebf916e93789595a41ac84e801820b39b4e34eaac71e69fdc416b87c3" // API-ключ для доступу до Airtable
+    });
+
+    // Підключення до бази Airtable
+    const Tt = kt().base("appkvaQayzRCLgEbk"); // Ідентифікатор бази Airtable
+
+    // Функція для отримання параметрів запиту з URL
+    function Et() {
+        const e = window.location.search,
+            t = new URLSearchParams(e);
+        let a = "";
+        for (const [e, i] of t.entries())
+            "" !== a && (a += ","),
+                a += `${e}=${i}`;
+        return a; // Повертає параметри запиту у вигляді рядка
+    }
+
+    // Функція для створення запису в Airtable
+    Tt("tblZfXxFHDxrof36b").create({
+        IPAddress: l, // IP-адреса користувача
+        Country: h, // Країна користувача
+        DateTime: e, // Поточна дата і час
+        FirstCard: t < 768 ? s + 1 : s, // Вибір першої картки
+        SecondCard: t < 768 ? n + 1 : n, // Вибір другої картки
+        Email: r, // Email користувача
+        QueryParameters: Et() // Параметри запиту
+    }).then((e => {
+        d(!1), // Успішне створення запису
+            i(a + 1); // Перехід до наступного кроку
+    })).catch((e => {
+        console.error("Error creating record:", e), // Логування помилки
+            d(!1); // Відміна стану завантаження
+    }));
+
+    // Додаткова конфігурація Airtable для відписки
+    kt().configure({
+        apiKey: "patKhGMPAL2aUtgI7.3a33626ebf916e93789595a41ac84e801820b39b4e34eaac71e69fdc416b87c3" // API-ключ
+    });
+
+    // Підключення до тієї ж бази Airtable
+    const qt = kt().base("appkvaQayzRCLgEbk"); // Ідентифікатор бази Airtable
+
+    // Функція для відписки (unsubscribe)
+    qt("tblZOhGYOMmd498x8").create({
+        Date: e, // Поточна дата
+        Email: i // Email користувача
+    }).then((e => {
+        a(!1), // Успішне створення запису
+            s(""), // Очищення email
+            l(!1), // Скидання стану
+            r(!0), // Відображення успішного повідомлення
+            c(!0); // Відображення підтвердження
+    })).catch((e => {
+        console.error("Error creating record:", e), // Логування помилки
+            a(!1); // Відміна стану завантаження
+    }));
     var e = {
         997: (e, t, a) => {
             e.exports = function e(t, a, i) {
@@ -3918,7 +3980,7 @@ to {
                 , Lt = a.p + "images/vectorgreen1.04b60e44.png"
                 , Pt = a.p + "images/vectorgreen2.16e59af7.png";
             kt().configure({
-                apiKey: "patiSqP9pYiAkUN2M.4aaba91e5cfe2d7e17927509a0674e1cd55c435f7dca44aacab6bd4bee2cf88d"
+                apiKey: "patKhGMPAL2aUtgI7.3a33626ebf916e93789595a41ac84e801820b39b4e34eaac71e69fdc416b87c3"
             });
             const qt = kt().base("appkvaQayzRCLgEbk")
                 , { render: Mt } = wp.element;
