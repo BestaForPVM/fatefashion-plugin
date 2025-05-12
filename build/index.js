@@ -4142,7 +4142,7 @@ to {
                         }, "Unsubscribe"), 1 == h && (0,
                           e.createElement)("p", {
                             className: "font-normal text-base md:text-lg"
-                          }, "Будь ласка, знайдіть лист у вашій поштовій скриньці та підтвердіть відписку"))
+                          }, "Шкода, що ви йдете. Ваш e-mail успішно видалено з нашої бази підписників."))
           }
           ), null), document.getElementById("fatefashionunsubscribe"))
     }
