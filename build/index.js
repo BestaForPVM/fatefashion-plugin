@@ -3689,10 +3689,10 @@ to {
                         fontFamily: "Roboto"
                       },
                       className: "text-xl md:text-[40px] font-bold text-left"
-                    }, "My future ", (0,
+                    }, "Стиль ", (0,
                       e.createElement)("span", {
                         className: "text-clientorange"
-                      }, " style !")), (0,
+                      }, "моєї мрії !")), (0,
                         e.createElement)("div", {
                           className: "w-full grid grid-cols-1 md:grid-cols-2 gap-5"
                         }, (0,
