@@ -3794,7 +3794,7 @@ to {
                         e.createElement)(vt, {
                           value: r,
                           setvalue: o,
-                          placeholder: "Enter your email",
+                          placeholder: "Введіть свій email",
                           type: "email",
                           valid: u
                         }), c ? (0,
@@ -4107,7 +4107,7 @@ to {
                     e.createElement)(vt, {
                       value: i,
                       setvalue: s,
-                      placeholder: "Enter your email",
+                      placeholder: "Введіть свій email",
                       type: "email",
                       purple: !0,
                       valid: n
@@ -4139,7 +4139,7 @@ to {
                           }
                           ,
                           className: "w-full text-lg font-semibold drop-shadow-md bg-clientpurple py-2 px-10 flex flex-row justify-center items-center text-white rounded-full border-none"
-                        }, "Unsubscribe"), 1 == h && (0,
+                        }, "Відписатись"), 1 == h && (0,
                           e.createElement)("p", {
                             className: "font-normal text-base md:text-lg"
                           }, "Шкода, що ви йдете. Ваш e-mail успішно видалено з нашої бази підписників."))
